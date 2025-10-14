@@ -1,0 +1,26 @@
+En python
+
+- Interprétation d'un fichier avec les données des participants
+> défini comme suis :
+Numéro;Prénom Nom;e-mail;langue[;numéros; à; exclure;]
+
+- Création du logiciel faisant les paires santa / cible
+> aléatoire
+> en fonction des paramètres
+ > les numéros à exclure
+  > Ne pas être dans la même petite famille
+  > Ne pas être le même que l'année dernière
+ > La cible ne peut être le secret santa
+ > Chaque santa à UNE seule cible
+  > Une cible ne peut avoir plus de 1 secret santa
+> Récursif ou boucle
+
+- Ecrire le résultat dans un .txt
+> à la date et l'heure du moment
+ > secret_santa_YY_MM_DD_hh_mm_ss.txt
+
+- Envoyer les mails depuis l'adresse e-mail secret@santa vers le santa
+> contenant sa cible
+> dans la langue de préférence du père Noël secret
+
+- Faire le README
